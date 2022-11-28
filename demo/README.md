@@ -87,3 +87,9 @@ Exit:
 Restart:
 
 - Select 'restart', to shutdown the current agent and start a new one
+
+Your Taks:
+
+- Create a connection between Alice and Faber.
+- Send a Credential Proof from Alice to Faber.
+- Send a Thanks Message to Alice. 
